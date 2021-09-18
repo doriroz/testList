@@ -3,3 +3,6 @@ Milk
 Egges
 Meat
 Bred
+Candy
+Coffe
+Cheese
